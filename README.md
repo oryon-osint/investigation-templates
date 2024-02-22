@@ -43,7 +43,7 @@ The templates provided in this repository are for informational purposes only an
 
 We're all about sharing and improving. Contribute your ideas or tweaks!
 
-- Discord: [Join us](#)
-- Telegram: [Follow us](#)
-- LinkedIn: [Connect with us](#)
-- Website: [Explore more](#)
+- Discord **Oryon's OSINT Hub**: [Join us](https://discord.gg/3P5G4dDw#)
+- Telegram **ORYON VAULT**: [Follow us](https://t.me/oryonvault)
+- LinkedIn: [Connect with us](https://www.linkedin.com/company/oryon-systems)
+- Website: [Explore more](https://oryon.systems#)
