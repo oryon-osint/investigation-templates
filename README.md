@@ -1,6 +1,6 @@
 # investigation-templates
 
-This repository offers Markdown templates specifically designed for OSINT and online investigation activities. Tailored for use in applications like [Obsidian](https://obsidian.md/) and [Joplin](https://joplinapp.org/), these templates provide structured frameworks to facilitate methodical investigations, ensuring thorough analysis and documentation. 
+This repository offers Markdown templates specifically designed for OSINT and cyber investigation activities. Tailored for use in applications like [Obsidian](https://obsidian.md/) and [Joplin](https://joplinapp.org/), these templates provide structured frameworks to facilitate methodical investigations, ensuring thorough analysis and documentation. 
 
 ## Contents
 
