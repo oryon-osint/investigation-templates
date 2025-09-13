@@ -1,7 +1,5 @@
 # AI Media Forensics Manual
-
-#### Practical Techniques for Detecting Synthetic Images, Video, Audio, and Text
-
+### Practical Techniques for Detecting Synthetic Images, Video, Audio, and Text.
 ---
 ## 1. Introduction
 
