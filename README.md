@@ -35,10 +35,8 @@ cyber-intelligence-toolkit/
 * Security & compliance officers
 * Researchers and educators
 
-### Maintainer
+### 🔖 Credits
 
-Maintained by **Oryon** & **OSINT360**.  
+Maintained by **Oryon** +[OSINT360 GPT](https://tntpp9.short.gy/osint360-gpt).  
 This document is part of the **Cyber Intelligence Toolkit** project.  
-
-💡 *Note: These manuals and checklists are generated and continuously improved using **[OSINT360 GPT](https://tntpp9.short.gy/osint360-gpt)**, ensuring they stay  practical, adaptive, and up to date with evolving threats.*  
 
