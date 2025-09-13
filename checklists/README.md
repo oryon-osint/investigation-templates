@@ -23,4 +23,10 @@ Checklists are meant to complement:
 * The **Playbooks** (in `/playbooks`) for workflow-oriented procedures.
 * The **Appendices** (in `/appendices`) for technical details and automation.
 
+### 🔖 Credits
+
+Maintained by **Oryon** +**[OSINT360 GPT](https://tntpp9.short.gy/osint360-gpt)**.  
+This document is part of the **Cyber Intelligence Toolkit** project.  
+
+
 
