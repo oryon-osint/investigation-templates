@@ -23,12 +23,4 @@ Checklists are meant to complement:
 * The **Playbooks** (in `/playbooks`) for workflow-oriented procedures.
 * The **Appendices** (in `/appendices`) for technical details and automation.
 
-## 🤝 Contribution Guidelines
-
-If you add or modify a checklist:
-
-1. Use **clear, concise bullet points**.
-2. Keep language **action-oriented** (e.g., *Verify X*, *Check Y*).
-3. Avoid unnecessary narrative — checklists should be usable under time pressure.
-4. Submit as a Markdown (`.md`) file.
 
