@@ -4,6 +4,28 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-purple)
 ![Last Update](https://img.shields.io/badge/updated-2025--09--13-red)
 
+# 📑 Table of Contents
+
+  - [Overview](#overview)
+  - [1. Scope & Assumptions](#1-scope--assumptions)
+  - [2. Threat Modeling & Risk Assessment](#2-threat-modeling--risk-assessment)
+  - [3. OPSEC Principles & Posture Levels](#3-opsec-principles--posture-levels)
+  - [4. Identity & Persona Compartmentalization](#4-identity--persona-compartmentalization)
+  - [5. Device & Endpoint Security](#5-device--endpoint-security)
+  - [6. Browser, Fingerprinting & Content OPSEC](#6-browser-fingerprinting--content-opsec)
+  - [7. Network & Transport Security](#7-network--transport-security)
+  - [8. Communications Security (COMSEC)](#8-communications-security-comsec)
+  - [9. Data Handling, Evidence & Chain of Custody](#9-data-handling-evidence--chain-of-custody)
+  - [10. Social & Behavioral OPSEC](#10-social--behavioral-opsec)
+  - [11. Travel OPSEC & Physical Security](#11-travel-opsec--physical-security)
+  - [12. Source Protection & HUMINT Interactions](#12-source-protection--humint-interactions)
+  - [13. Advanced Topics](#13-advanced-topics)
+  - [14. Monitoring, Audits & Incident Response](#14-monitoring-audits--incident-response)
+  - [15. Tools & Utilities Reference](#15-tools--utilities-reference)
+  - [16. Checklists](#16-checklists)
+  - [17. Templates & Automation (Snippets)](#17-templates--automation-snippets)
+  - [🔖 Credits](#-credits)
+
 ## Overview
 
 The **Paranoid OPSEC Manual** is designed for investigators, journalists, and security practitioners who operate in **high-risk or hostile environments**.  It focuses on **no-compromise methods** for safeguarding identity, devices, communications, and evidence. 
