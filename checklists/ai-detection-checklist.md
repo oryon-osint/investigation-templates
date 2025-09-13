@@ -236,3 +236,9 @@ A comprehensive and detailed checklist for detecting and analyzing AI-generated 
 |[Meteostat](https://meteostat.net/)|Contextual data|Historical weather validation|
 |[SunCalc](https://www.suncalc.org/)|Contextual analysis|Validate shadows and sun positions by time and place|
 |[SensityAI](https://sensity.ai/)|AI detection|Deepfake and synthetic media detection services|
+
+
+### 🔖 Credits
+
+Maintained by **Oryon** +**[OSINT360 GPT](https://tntpp9.short.gy/osint360-gpt)**.  
+This document is part of the **Cyber Intelligence Toolkit** project.  
