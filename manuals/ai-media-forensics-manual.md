@@ -708,3 +708,9 @@ This section provides an operational, reproducible workflow from first contact w
     - Peer Reviewer:
     - Final Conclusion:
     ```
+
+    ### 🔖 Credits
+
+Maintained by **Oryon** +**[OSINT360 GPT](https://tntpp9.short.gy/osint360-gpt)**.  
+This document is part of the **Cyber Intelligence Toolkit** project.  
+
