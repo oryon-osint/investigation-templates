@@ -1,6 +1,6 @@
 # 📘 Manuals
 
-This directory contains **comprehensive manuals** covering OSINT, digital forensics, and AI-generated media detection. Manuals provide in-depth methodologies, structured workflows, and detailed reference material.
+The manuals in this directory serve as foundational guides for investigative and analytical work in the cyber intelligence domain. Each manual combines methodological depth with actionable procedures, offering practitioners clear, consistent, and adaptable resources for complex investigations.
 
 ## 🎯 Purpose
 
