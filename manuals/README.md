@@ -15,3 +15,8 @@ Manuals are designed for **deep-dive analysis** and should be used alongside:
 * ✅ **Checklists** (in `/checklists`) for quick, field-ready tasks.
 * ⚡ **Playbooks** (in `/playbooks`) for workflow-oriented procedures.
 * 📂 **Appendices** (in `/appendices`) for tools, scripts, and technical references.
+
+## 📜 Maintainers
+
+* **oryon**
+* **osint360**
