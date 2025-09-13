@@ -1,4 +1,4 @@
-# 🛰️ AI Media Forensics Manual  
+# AI Media Forensics Manual  
 ### Practical Techniques for Detecting Synthetic Media  
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)   
