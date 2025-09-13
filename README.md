@@ -26,34 +26,6 @@ cyber-intelligence-toolkit/
 └── README.md      # This overview
 ```
 
-# 🛰️ Cyber Intelligence Toolkit
-
-## 🎯 Overview
-
-The **Cyber Intelligence Toolkit** is an open-source knowledge and resource hub for digital investigations. It provides investigators, analysts, journalists, and security professionals with **field-ready manuals, structured playbooks, detailed checklists, and technical appendices**. These resources are designed to strengthen fact-checking, OSINT operations, digital forensics, and cyber threat analysis.
-
-This repository emphasizes:
-
-* **OSINT (Open-Source Intelligence):** Practical techniques for data collection, validation, and analysis.
-* **Digital Forensics:** Methods and workflows for examining authenticity and integrity of digital content.
-* **Synthetic Media Detection:** Techniques to identify AI-generated images, video, audio, and text.
-* **OPSEC (Operational Security):** Best practices to protect investigators during sensitive research.
-* **Investigation Frameworks:** Standardized, reproducible processes that increase reliability of findings.
-
----
-
-## 📂 Repository Structure
-
-```
-cyber-intelligence-toolkit/
-│
-├── manuals/       # In-depth guides and handbooks (comprehensive methodologies)
-├── playbooks/     # Workflow-driven investigation procedures
-├── checklists/    # Concise step-by-step reference guides
-├── appendices/    # Supporting tools, utilities, templates, and references
-└── README.md      # Landing page of the repository
-```
-
 ## 📌 Audience
 
 * OSINT practitioners
