@@ -16,7 +16,9 @@ Manuals are designed for **deep-dive analysis** and should be used alongside:
 * ⚡ **Playbooks** (in `/playbooks`) for workflow-oriented procedures.
 * 📂 **Appendices** (in `/appendices`) for tools, scripts, and technical references.
 
-## 📜 Maintainers
+### Maintainer
 
-* **oryon**
-* **osint360**
+Maintained by **Oryon** & **OSINT360**.  
+This document is part of the **Cyber Intelligence Toolkit** project.  
+
+💡 *Note: These manuals and checklists are generated and continuously improved using **[OSINT360 GPT](https://tntpp9.short.gy/osint360-gpt)**, ensuring they stay  practical, adaptive, and up to date with evolving threats.*  
