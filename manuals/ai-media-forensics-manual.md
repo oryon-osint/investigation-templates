@@ -2,7 +2,7 @@
 ### Practical Techniques for Detecting Synthetic Media  
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)   
-![Last Update](https://img.shields.io/badge/updated-2025--09--13-yellow)
+![Last Update](https://img.shields.io/badge/updated-2025--09--13-red)
 
 ## 1. Introduction
 
