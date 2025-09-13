@@ -35,8 +35,6 @@ cyber-intelligence-toolkit/
 * Security & compliance officers
 * Researchers and educators
 
-## 📜 Maintainers
-
-* **oryon**
-* **osint360**
+---
+`oryon, osint360`
 
