@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-The **Cyber Intelligence Toolkit** is an open-source collection of manuals, playbooks, checklists, and appendices that support a wide range of investigative and analytical activities. It is intended for professionals and practitioners who need structured, reliable, and practical references during digital investigations.
+The **Cyber Intelligence Toolkit** is a curated collection of manuals, playbooks, checklists, and appendices built to support a wide spectrum of investigative and analytical tasks. It equips investigators, analysts, and practitioners with structured, reliable, and actionable references for digital investigations — from rapid verification and OSINT workflows to deep forensic analysis.
 
 This repository emphasizes:
 
@@ -37,5 +37,6 @@ cyber-intelligence-toolkit/
 
 ## 📜 Maintainers
 
-* **Oryon**
+* **oryon**
+* **osint360**
 
