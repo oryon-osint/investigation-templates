@@ -4,6 +4,19 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)   
 ![Last Update](https://img.shields.io/badge/updated-2025--09--13-red)
 
+# 📑 Table of Contents
+
+  - [1. Introduction](#1-introduction)
+  - [2. Analysis Models](#2-analysis-models)
+  - [3. Detection Domains](#3-detection-domains)
+  - [4. Step-by-Step Procedures](#4-step-by-step-procedures-step-by-step-procedures)
+  - [5. Best Practices](#5-best-practices)
+  - [6. Analyst Toolkit (2025)](#6-analyst-toolkit-2025)
+  - [7. Strategic Outlook](#7-strategic-outlook)
+  - [Appendix A: Domain → Tools Matrix](#appendix-a-domain--tools-matrix)
+  - [Appendix B: Automation Snippets & Field Kit](#appendix-b-automation-snippets--field-kit)
+  - [Credits](#credits)
+
 ## 1. Introduction
 
 Artificial Intelligence has enabled the creation of hyper-realistic synthetic media — images, video, audio, and text that can convincingly mimic authentic content. While AI brings innovation in media production, it also introduces risks: misinformation campaigns, reputational attacks, political manipulation, and cyber-enabled fraud.
