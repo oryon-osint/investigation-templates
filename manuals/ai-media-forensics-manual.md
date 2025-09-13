@@ -1,6 +1,9 @@
-# AI Media Forensics Manual
-### Practical Techniques for Detecting Synthetic Images, Video, Audio, and Text.
----
+# 🛰️ AI Media Forensics Manual  
+### Practical Techniques for Detecting Synthetic Media  
+
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)   
+![Last Update](https://img.shields.io/badge/updated-2025--09--13-yellow)
+
 ## 1. Introduction
 
 Artificial Intelligence has enabled the creation of hyper-realistic synthetic media — images, video, audio, and text that can convincingly mimic authentic content. While AI brings innovation in media production, it also introduces risks: misinformation campaigns, reputational attacks, political manipulation, and cyber-enabled fraud.
