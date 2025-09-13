@@ -1,4 +1,4 @@
-# 🛰️ Cyber Intelligence Toolkit
+# Cyber Intelligence Toolkit
 
 ## 🎯 Overview
 
