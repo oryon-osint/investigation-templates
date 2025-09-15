@@ -37,6 +37,6 @@ cyber-intelligence-toolkit/
 
 ### 🔖 Credits
 
-Maintained by **Oryon** + **[OSINT360](https://tntpp9.short.gy/osint360-gpt)**.  
-This document is part of the **Cyber Intelligence Toolkit** project.  
+Maintained by **oryon** + **[OSINT360](https://tntpp9.short.gy/osint360-gpt)** 
+This document is part of the **[Cyber Intelligence Toolkit](https://github.com/oryon-osint/cyber-intelligence-toolkit)** project.  
 
