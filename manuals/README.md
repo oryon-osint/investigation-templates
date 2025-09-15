@@ -18,5 +18,5 @@ Manuals are designed for **deep-dive analysis** and should be used alongside:
 
 ### 🔖 Credits
 
-Maintained by **oryon** + **[OSINT360](https://tntpp9.short.gy/osint360-gpt)** 
+Maintained by **oryon** + **[OSINT360](https://tntpp9.short.gy/osint360-gpt)**.
 This document is part of the **[Cyber Intelligence Toolkit](https://github.com/oryon-osint/cyber-intelligence-toolkit)** project.  
